@@ -18821,7 +18821,7 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-top2 {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/nascabout.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -19420,7 +19420,7 @@ p.vhny-para {
 /*--//video--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/nascabout.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -19731,7 +19731,7 @@ h4.head {
 
 /*--//progress-info--*/
 .w3l-join-main {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/serv-nasc.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -20791,9 +20791,7 @@ section.footer-inner-main {
     }
 }
 
-.nehrulogo{
-    
-}
+
 
 /*--//Footer-9--*/
 /*# sourceMappingURL=style-freedom.css.map */
